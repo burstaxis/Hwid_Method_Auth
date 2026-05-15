@@ -56,7 +56,13 @@
       "username": "Priyam",
       "package": "VISIBEL"
     },
-      
+    {
+      "hwid": "S-1-5-21-3165595392-2376019651-2421222395-500",
+      "subscription": "active",
+      "expiry": "2026-12-31",
+      "username": "admin",
+      "package": "SafeCorePanel"
+    },
     {
       "hwid": "S-1-5-21-3487090506-3907088326-1492958049-1001",
       "subscription": "active",
