@@ -43,10 +43,17 @@
       "package": "VISIBEL"
     },
      {
-      "hwid": "S-1-5-21-2531716524-1872983547-2244382279-1001",
+      "hwid": "S-1-5-21-1371251688-2997641292-1046300748-1001",
       "subscription": "active",
       "expiry": "2026-12-31",
       "username": "raju",
+      "package": "VISIBEL"
+    },
+     {
+      "hwid": "S-1-5-21-2555557379-566530553-271015191-1001",
+      "subscription": "active",
+      "expiry": "2026-12-31",
+      "username": "Kirdar",
       "package": "VISIBEL"
     },
       {
